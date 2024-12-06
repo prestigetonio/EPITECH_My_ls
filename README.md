@@ -4,7 +4,6 @@ Vous devez recréer la fonction "ls" <br>
 
 <H1>🎯 OBJECTIFS 🎯</H1>
 Recréer la fonction "ls" <br>
-<br>
 
 <H1>🤖 RÉSULTAT MOULINETTE 🤖</H1>
 Comme le savent les personnes à Epitech, le projet est corrigé par la moulinette, voici les résultats : <br>
