@@ -6,9 +6,6 @@ Vous devez recréer la fonction "ls" <br>
 Recréer la fonction "ls" <br>
 <br>
 
->[!IMPORTANT]
-> Seuls les "ls", "ls -a" et "ls -d" fonctionnent.
-
 <H1>🤖 RÉSULTAT MOULINETTE 🤖</H1>
 Comme le savent les personnes à Epitech, le projet est corrigé par la moulinette, voici les résultats : <br>
 Prérequis remplis : 
@@ -20,6 +17,8 @@ Prérequis remplis :
 - Docker Compose : ?% <br>
 <br>
 
+>[!IMPORTANT]
+> Seuls les "ls", "ls -a" et "ls -d" fonctionnent.
 
 > [!CAUTION]  
 > Mes amis, je ne vous encourage absolument pas à copier ce dépôt. Je vous rappelle que toute triche sera détectée par notre ami le "moulitriche", et vous risquez donc un -42. <br>
