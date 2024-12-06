@@ -8,7 +8,7 @@ Recréer la fonction "ls" <br>
 <H1>🤖 RÉSULTAT MOULINETTE 🤖</H1>
 Comme le savent les personnes à Epitech, le projet est corrigé par la moulinette, voici les résultats : <br>
 Prérequis remplis : 
-<br>
+<br><br>
 - Global : ?% <br>
 - Image Poll : ?% <br>
 - Image Result : ?% <br>
