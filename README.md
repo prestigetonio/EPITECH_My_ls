@@ -1,5 +1,5 @@
 <H1>🖥️ MY_LS 🖥️</H1>
-Vous devez recréer la fonction "ls" <br>
+My_ls est le premier projet Epitech. <br>
 
 <H1>🎯 OBJECTIFS 🎯</H1>
 Recréer la fonction "ls" <br>
