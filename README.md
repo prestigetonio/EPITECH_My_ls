@@ -1,5 +1,4 @@
 <H1>🖥️ MY_LS 🖥️</H1>
-My_ls est le premier projet Epitech. <br>
 Vous devez recréer la fonction "ls" <br>
 
 <H1>🎯 OBJECTIFS 🎯</H1>
@@ -20,7 +19,8 @@ Prérequis remplis :
 > Seuls les "ls", "ls -a" et "ls -d" fonctionnent.
 
 > [!CAUTION]  
-> Mes amis, je ne vous encourage absolument pas à copier ce dépôt. Je vous rappelle que toute triche sera détectée par notre ami le "moulitriche", et vous risquez donc un -42. <br>
-Ne prenez pas le risque d'un -42 pour rien, donnez tout pour avoir un projet dont vous êtes fiers. Vous pouvez toutefois regarder ce dépôt pour avoir une idée du travail à accomplir. <br>
-Mais attention ! Regardez ce dépôt uniquement pour "voir le travail" ou "vous débloquer", ne copiez rien à l'identique !! <br>
-L'essentiel est d'apprendre !! <br>
+> Mes amis, je vous déconseille vivement de copier ce dépôt. N'oubliez pas que la triche est détectée par "moulitriche" et que vous risquez un -42. <br>
+Ne prenez pas ce risque inutile, mettez-y toute votre énergie pour créer un projet dont vous pourrez être fiers. Vous pouvez consulter ce dépôt pour avoir une idée du travail à accomplir. <br>
+Toutefois, soyez prudents ! Ne vous contentez pas de regarder ce dépôt pour "voir le travail" ou pour "vous aider à avancer", ne copiez surtout rien ! <br>
+Le plus important, c'est d'apprendre et de progresser par vous-même ! <br>
+
