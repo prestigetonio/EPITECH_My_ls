@@ -8,11 +8,13 @@ Recréer la fonction "ls" <br>
 Comme le savent les personnes à Epitech, le projet est corrigé par la moulinette, voici les résultats : <br>
 Prérequis remplis : 
 <br><br>
-- Global : ?% <br>
-- Image Poll : ?% <br>
-- Image Result : ?% <br>
-- Image Worker : ?% <br>
-- Docker Compose : ?% <br>
+- Basic tests : 100% <br>
+- '-l' option tests : 0% <br>
+- '-R' option test : 0% <br>
+- Combining option tests : 0% <br>
+- '-t' option tests : 0% <br>
+- Char device tests : 0% <br>
+- ✔️ TOTAL : 26.3% <br>
 <br>
 
 >[!IMPORTANT]
